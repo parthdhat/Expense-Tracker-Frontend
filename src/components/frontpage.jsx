@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './FrontPage.css';
+import './frontpage.css';
 
 function FrontPage() {
   return (

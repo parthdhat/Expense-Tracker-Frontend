@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./AddExpense.css";
+import "./addexpense.css";
 
 const AddExpense = () => {
   const [title, setTitle] = useState("");

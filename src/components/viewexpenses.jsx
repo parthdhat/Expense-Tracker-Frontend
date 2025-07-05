@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import "./ViewExpenses.css";
+import "./viewexpenses.css";
 
 const ViewExpenses = () => {
   const [expenses, setExpenses] = useState([]);
