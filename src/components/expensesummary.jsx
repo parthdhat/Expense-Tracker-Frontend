@@ -11,7 +11,6 @@ import {
   ResponsiveContainer,
   CartesianGrid,
 } from "recharts";
-import "./ExpenseSummary.css";
 
 const ExpenseSummary = () => {
   const [summary, setSummary] = useState(null);
